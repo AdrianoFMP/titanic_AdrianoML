@@ -7,3 +7,6 @@ Este projeto tem como objetivo aplicar técnicas de Aprendizado de Máquina (ML)
 2. Responder à pergunta: "Qual é a probabilidade de sobrevivência de uma mulher?"
 3. Implementar a validação do modelo utilizando Cross Validation.
 4. Testar os modelos e realizar suas avaliações.
+
+### Desafio tirado do kaggle
+Link do site: https://www.kaggle.com/competitions/titanic
